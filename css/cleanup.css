@@ -4,10 +4,14 @@
   display: none;
 }
 
-/* Needs a fixin */#tag-2{
+/* Needs a fixin */#tag-2 {
   display: none;
 }
 
-#wall #tag-2 + #tag-3{
+#wall #tag-2 + #tag-3 {
+  display: none;
+}
+
+.parent #tag-4 {
   display: none;
 }
